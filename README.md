@@ -1,10 +1,16 @@
 # NCERT12-SymPy
-Solving the whole Class 12 NCERT using Python, SymPy  and Matplotlib 
+Solving the whole Class 12 NCERT using Python, SymPy, NumPy, and Matplotlib. 
+
+## Note for someone who is not from India (｡･∀･)ﾉﾞ
+Class 12 is the final year of Indian high school education before University or college. 
+
+NCERT stands for the National Council of Educational Research and Training, which publishes the standard school textbooks that are used by millions of students across India  
+
 
 ## The reason why I am starting this project (❁´◡`❁)
 I am starting this project to combine my interests in mathematics and computers. 
 
-I have just started learning how to code, and I thought, what's the best way to implement my learning? That's why I am going through each of the chapters excercise wise of Class 12 Mathematics NCERT and solving it by the help of programming. I will be updating everything slowly and steadily while learning more efficient way of programming.
+I have just started learning how to code, and I thought, what's the best way to implement my learning? That's why I am going through each of the chapter exercises of Class 12 Mathematics NCERT and solving it by the help of programming. I will update everything slowly and steadily as I learn more efficient ways to program.
 
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
