@@ -5,7 +5,7 @@ from sympy import symbols, Matrix, Rational, sqrt
 x = sp.symbols('x')
 
 #Question 3
-# If a matrix has 18 elements, what are the possible orders it can have ? what if it has 5 elements ?
+# If a matrix has 18 elements, what are the possible orders it can have? What if it has 5 elements?
 
 def find_orders(num_elements):
     orders = []
@@ -17,3 +17,7 @@ def find_orders(num_elements):
 
 print("Possible orders for 18 elements:", find_orders(18))
 print("Possible orders for 5 elements:", find_orders(5))
+
+#The solution is as follows:
+# Possible orders for 18 elements: [(1, 18), (2, 9  ), (3, 6), (6, 3), (9, 2), (18, 1)]
+# Possible orders for 5 elements: [(1, 5), (5, 1)]

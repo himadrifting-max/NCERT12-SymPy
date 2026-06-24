@@ -17,3 +17,6 @@ def find_orders(num_elements):
 
 print("Possible orders for 24 elements:", find_orders(24))
 print("Possible orders for 13 elements:", find_orders(13))
+
+# Possible orders for 24 elements: [(1, 24), (2, 12), (3, 8), (4, 6), (6, 4), (8, 3), (12, 2), (24, 1)]
+# Possible orders for 13 elements: [(1, 13), (13, 1)]

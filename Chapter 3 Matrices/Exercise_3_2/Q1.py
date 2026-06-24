@@ -21,3 +21,10 @@ print("AB =", A * B)
 
 #v) BA
 print("BA =", B * A)
+
+# Solutions as follows:
+# A + B = Matrix([[3, 7], [1, 7]])
+# A - B = Matrix([[1, 1], [5, -3]])
+# 3A - C = Matrix([[8, 7], [6, 2]])
+# AB = Matrix([[-6, 26], [-1, 19]])
+# BA = Matrix([[11, 10], [11, 2]])
