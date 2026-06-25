@@ -56,7 +56,7 @@ a, b, c = sp.symbols('a b c')
 
 X = Matrix([[a**2 + b**2, b**2 + c**2], [a**2 + c**2, a**2 + b**2]])
 
-Y =Matrix([[2*a*b, 2*b*c], [-2*a*c, -2*a*b]])
+Y = Matrix([[2*a*b, 2*b*c], [-2*a*c, -2*a*b]])
 
 print( X + Y )
 
