@@ -54,5 +54,4 @@ if X == sp.zeros(2):
 else:
     print("Not proved")
 
-
-
+# I have finished this excercise 3.2 I am not continuing the remaining 4 questions as those are very high level probably (Outside my league) and also they are word problems...Maybe later when I have the experinece I will try to solve the remaining 4

@@ -28,11 +28,11 @@ Slowly, I will be updating my work (hopefully steadily also), chapter by chapter
 ## Progress ::>_<::
 Current chapter: Matrices 
 
-Status: Just started
+Status: Just finished exercise 3.2, will be starting exercise 3.3 soon, or I have started it, doing it very slowly
 
 ### Exercise Progress 
 - [ ] Exercise 3.1
-- [ ] Exercise 3.2
+- [x] Exercise 3.2
 - [ ] Exercise 3.3
 - [ ] Exercise 3.4
 - [ ] Miscellaneous Exercise
